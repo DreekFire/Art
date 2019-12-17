@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<Title><![CDATA[Tech v. Magic story]]></Title>
+		<AuthorName><![CDATA[Dreek Fire]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[A sample project you can modify. Or you can delete all the chapters, characters, etc, and start fresh.]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>0001-01-01</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>0</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[A place where things happen]]></Title>
+		<Desc><![CDATA[If you like, you can add multiple locations to your novel, then drag one or more onto scenes to show where those scenes take place.]]></Desc>
+	</LOCATION>
+
+	</LOCATIONS>
+	<ITEMS>
+	<ITEM>
+		<ID>1</ID>
+		<Title><![CDATA[A magic thingummy]]></Title>
+	</ITEM>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Edmund]]></Title>
+		<Desc><![CDATA[Characters can be Major or Minor. A scene can have one viewpoint character.]]></Desc>
+		<FullName><![CDATA[Edmund the First]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Bob]]></Title>
+		<Desc><![CDATA[Characters can be Major or Minor. A scene can have one viewpoint character.]]></Desc>
+		<FullName><![CDATA[Bob the second character]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Scene 1 Title]]></Title>
+		<Desc><![CDATA[A longer description which becomes part of the auto-generated synopsis]]></Desc>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>13</WordCount>
+		<LetterCount>71</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+			<ItemID>1</ItemID>
+		</Items>
+		<SceneContent><![CDATA[Content of the scene goes here. (Scenes are where you write your novel)]]></SceneContent>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Scene 2 title]]></Title>
+		<Desc><![CDATA[Short description for scene 2]]></Desc>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>21</WordCount>
+		<LetterCount>106</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+			<ItemID>1</ItemID>
+		</Items>
+		<SceneContent><![CDATA[And the content of scene 2 goes here.  Add more chapters and scenes to your project - as many as you like.]]></SceneContent>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[This is a short description for the selected chapter. Don't try and enter your scene content here.]]></Desc>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-12-16</Date>
+		<Count>34</Count>
+		<TotalCount>34</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
