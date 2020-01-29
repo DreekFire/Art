@@ -1,2 +1,7 @@
 *.lnk
 *.rar
+*.blend1
+*.bak
+*.lock
+**/.DS_Store
+**/Autobackups/*

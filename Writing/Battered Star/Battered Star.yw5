@@ -1,34 +1,32 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+﻿<?xml version="1.0" encoding="us-ascii"?>
 <YWRITER5>
 	<PROJECT>
 		<Ver>5</Ver>
 		<Title><![CDATA[Battered Star]]></Title>
-		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<AuthorName><![CDATA[Dreek Fire]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
 		<Desc><![CDATA[]]></Desc>
 		<FieldTitle1><![CDATA[]]></FieldTitle1>
 		<FieldTitle2><![CDATA[]]></FieldTitle2>
 		<FieldTitle3><![CDATA[]]></FieldTitle3>
 		<FieldTitle4><![CDATA[]]></FieldTitle4>
-		<Bio><![CDATA[]]></Bio>
-		<AuthorName><![CDATA[Dreek Fire]]></AuthorName>
-		<CollabFolder></CollabFolder>
+		<LastFullBackup>2020-01-29</LastFullBackup>
 		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
+		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
 		<EndFrontMatterChID>0</EndFrontMatterChID>
 		<EndMiddleChID>0</EndMiddleChID>
 		<EndBeginningChID>0</EndBeginningChID>
-		<WordCountStart>0</WordCountStart>
-		<XMLFileVersion>4</XMLFileVersion>
 		<LatexSingleQuotes>0</LatexSingleQuotes>
 		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
-		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<LatexSceneDivider></LatexSceneDivider>
 		<HtmlSceneDivider></HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2019-12-02</LastFullBackup>
-		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
-		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
 		<MRUSpecificDate>1899-12-30</MRUSpecificDate>
-		<MRUSpecificTime>00:00</MRUSpecificTime>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
 		<LastViewedScID>1</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
@@ -40,7 +38,11 @@
 		<DeadlineStartDate3>1899-12-30</DeadlineStartDate3>
 		<DeadlineStartDate4>1899-12-30</DeadlineStartDate4>
 		<DeadlineStartDate5>1899-12-30</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
 	</PROJECT>
+
 	<LOCATIONS>
 	<LOCATION>
 		<ID>1</ID>
@@ -48,52 +50,62 @@
 		<SortOrder>1</SortOrder>
 		<AKA><![CDATA[Earth]]></AKA>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>2</ID>
 		<Title><![CDATA[Destroyer Implacable]]></Title>
 		<SortOrder>2</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>3</ID>
 		<Title><![CDATA[Destroyer Ardent]]></Title>
 		<SortOrder>3</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>4</ID>
 		<Title><![CDATA[Cruiser Dawn]]></Title>
 		<SortOrder>4</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>5</ID>
 		<Title><![CDATA[Cruiser Aurora]]></Title>
 		<SortOrder>5</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>10</ID>
 		<Title><![CDATA[Battleship Ultima Ratio]]></Title>
 		<SortOrder>6</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>9</ID>
 		<Title><![CDATA[Fleet Carrier Aurelius]]></Title>
 		<Desc><![CDATA[Pride of the Imperial Fleet, equipped with thousands of small craft. As its name implies, the interior is heavily ornamented and gilded for the purposes of diplomacy, especially as it was carrying a Senator at the time.]]></Desc>
 		<SortOrder>7</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>6</ID>
 		<Title><![CDATA[Escort Carrier Cygnus]]></Title>
 		<SortOrder>8</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>7</ID>
 		<Title><![CDATA[Research Vessel Horizon]]></Title>
 		<SortOrder>9</SortOrder>
 	</LOCATION>
+
 	<LOCATION>
 		<ID>8</ID>
 		<Title><![CDATA[Freighter Proud Strider]]></Title>
 		<SortOrder>10</SortOrder>
 	</LOCATION>
+
 	</LOCATIONS>
 	<ITEMS>
 	</ITEMS>
@@ -108,6 +120,7 @@
 		<FullName><![CDATA[Beryl Strauss]]></FullName>
 		<Major>-1</Major>
 	</CHARACTER>
+
 	<CHARACTER>
 		<ID>2</ID>
 		<Title><![CDATA[Saro]]></Title>
@@ -115,12 +128,14 @@
 		<FullName><![CDATA[Fleet Admiral Saro]]></FullName>
 		<Major>-1</Major>
 	</CHARACTER>
+
 	<CHARACTER>
 		<ID>3</ID>
 		<Title><![CDATA[Mei]]></Title>
 		<SortOrder>3</SortOrder>
 		<Major>-1</Major>
 	</CHARACTER>
+
 	</CHARACTERS>
 	<PROJECTNOTES>
 	</PROJECTNOTES>
@@ -128,26 +143,22 @@
 	</PROJECTVARS>
 	<PROJECTEXPS>
 	</PROJECTEXPS>
-	<PROJECTBOOKS>
-	</PROJECTBOOKS>
-	<PROJECTPARTS>
-	</PROJECTPARTS>
 	<SCENES>
 	<SCENE>
 		<ID>1</ID>
 		<Title><![CDATA[Recon]]></Title>
-		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
 		<BelongsToChID>1</BelongsToChID>
 		<Hour>6</Hour>
 		<Day>1</Day>
 		<LastsHours>1</LastsHours>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
 		<Field4>1</Field4>
 		<Status>2</Status>
-		<WordCount>135</WordCount>
-		<LetterCount>866</LetterCount>
+		<WordCount>134</WordCount>
+		<LetterCount>865</LetterCount>
 		<Characters>
 			<CharID>1</CharID>
 		</Characters>
@@ -156,11 +167,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>2</ID>
 		<Title><![CDATA[Missing]]></Title>
-		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
 		<BelongsToChID>1</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -176,18 +188,19 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>3</ID>
 		<Title><![CDATA[Portal]]></Title>
-		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<BelongsToChID>6</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
 		<Field4>1</Field4>
 		<Status>1</Status>
-		<WordCount>58</WordCount>
-		<LetterCount>302</LetterCount>
+		<WordCount>57</WordCount>
+		<LetterCount>301</LetterCount>
 		<Characters>
 			<CharID>1</CharID>
 		</Characters>
@@ -196,11 +209,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>4</ID>
 		<Title><![CDATA[Attack]]></Title>
-		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
 		<BelongsToChID>6</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -216,11 +230,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>5</ID>
 		<Title><![CDATA[Emergence Emergency]]></Title>
-		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -236,11 +251,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>6</ID>
 		<Title><![CDATA[First Contact]]></Title>
-		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -256,11 +272,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>7</ID>
 		<Title><![CDATA[Strike]]></Title>
-		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -276,11 +293,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>8</ID>
 		<Title><![CDATA[Rescue]]></Title>
-		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -296,11 +314,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>9</ID>
 		<Title><![CDATA[Aftermath]]></Title>
-		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -316,11 +335,12 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	<SCENE>
 		<ID>10</ID>
 		<Title><![CDATA[Entrance]]></Title>
-		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
 		<BelongsToChID>4</BelongsToChID>
+		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -336,6 +356,7 @@
 		<Items>
 		</Items>
 	</SCENE>
+
 	</SCENES>
 	<CHAPTERS>
 	<CHAPTER>
@@ -350,6 +371,7 @@
 			<ScID>2</ScID>
 		</Scenes>
 	</CHAPTER>
+
 	<CHAPTER>
 		<ID>6</ID>
 		<Title><![CDATA[Entry]]></Title>
@@ -361,6 +383,7 @@
 			<ScID>4</ScID>
 		</Scenes>
 	</CHAPTER>
+
 	<CHAPTER>
 		<ID>2</ID>
 		<Title><![CDATA[Contact]]></Title>
@@ -372,6 +395,7 @@
 			<ScID>8</ScID>
 		</Scenes>
 	</CHAPTER>
+
 	<CHAPTER>
 		<ID>3</ID>
 		<Title><![CDATA[Annihilation]]></Title>
@@ -382,22 +406,46 @@
 			<ScID>9</ScID>
 		</Scenes>
 	</CHAPTER>
+
+	<CHAPTER>
+		<ID>9</ID>
+		<Title><![CDATA[Construction]]></Title>
+		<SortOrder>5</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+
 	<CHAPTER>
 		<ID>4</ID>
 		<Title><![CDATA[Academy]]></Title>
-		<SortOrder>5</SortOrder>
+		<SortOrder>6</SortOrder>
 		<SectionStart>-1</SectionStart>
 		<Type>0</Type>
 		<Scenes>
 			<ScID>10</ScID>
 		</Scenes>
 	</CHAPTER>
+
 	<CHAPTER>
 		<ID>5</ID>
-		<Title><![CDATA[Chapter 4]]></Title>
-		<SortOrder>6</SortOrder>
+		<Title><![CDATA[Meeting]]></Title>
+		<SortOrder>7</SortOrder>
 		<Type>0</Type>
 	</CHAPTER>
+
+	<CHAPTER>
+		<ID>8</ID>
+		<Title><![CDATA[Core]]></Title>
+		<SortOrder>8</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[Invasion]]></Title>
+		<SortOrder>9</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+
 	</CHAPTERS>
 	<WCLog>
 	<WC>
@@ -405,150 +453,204 @@
 		<Count>109</Count>
 		<TotalCount>109</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2018-08-03</Date>
 		<Count>109</Count>
 		<TotalCount>109</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2018-08-04</Date>
 		<Count>136</Count>
 		<TotalCount>136</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2018-08-07</Date>
 		<Count>334</Count>
 		<TotalCount>334</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2018-08-08</Date>
 		<Count>334</Count>
 		<TotalCount>334</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2018-08-09</Date>
 		<Count>334</Count>
 		<TotalCount>334</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-03</Date>
 		<Count>235</Count>
 		<TotalCount>235</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-06</Date>
 		<Count>92</Count>
 		<TotalCount>92</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-07</Date>
 		<Count>94</Count>
 		<TotalCount>94</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-08</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-10</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-14</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-16</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-17</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-19</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-24</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-05-25</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-06-09</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-06-10</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-06-11</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-06-12</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-06-15</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-07-07</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-07-11</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-07-12</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-07-13</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-08-20</Date>
 		<Count>135</Count>
 		<TotalCount>135</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-11-30</Date>
 		<Count>193</Count>
 		<TotalCount>193</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-12-01</Date>
 		<Count>193</Count>
 		<TotalCount>193</TotalCount>
 	</WC>
+
 	<WC>
 		<Date>2019-12-02</Date>
 		<Count>193</Count>
 		<TotalCount>193</TotalCount>
 	</WC>
+
+	<WC>
+		<Date>2019-12-25</Date>
+		<Count>191</Count>
+		<TotalCount>191</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2020-01-05</Date>
+		<Count>191</Count>
+		<TotalCount>191</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2020-01-24</Date>
+		<Count>191</Count>
+		<TotalCount>191</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2020-01-29</Date>
+		<Count>191</Count>
+		<TotalCount>191</TotalCount>
+	</WC>
+
 	</WCLog>
 </YWRITER5>
