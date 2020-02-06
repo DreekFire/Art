@@ -3,5 +3,6 @@
 *.blend1
 *.bak
 *.lock
+*.gz
 **/.DS_Store
 **/Autobackups/*
